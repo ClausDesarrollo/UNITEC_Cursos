@@ -4,7 +4,7 @@
 **Título:** Entregable 1 - Gestión de Base de Datos  
 **Alumno:** Vargas Organista Claudio Alonso  
 **Materia:** Gestión de Base de Datos  
-**Profesor:** María Consuelo Lourdes Alison  
+**Profesor:** MARTHA BEATRIZ CHÁVEZ TERÁN  
 **Fecha:** 18 de noviembre de 2025  
 
 ---
@@ -113,7 +113,7 @@ Incluye todas las fuentes consultadas en formato APA.
 - [ ] **Título:** Entregable 1 - Gestión de Base de Datos  
 - [ ] **Alumno:** Vargas Organista Claudio Alonso  
 - [ ] **Materia:** Gestión de Base de Datos  
-- [ ] **Profesor:** María Consuelo Lourdes Alison  
+- [ ] **Profesor:** MARTHA BEATRIZ CHÁVEZ TERÁN  
 - [ ] **Fecha:** 18 de noviembre de 2025  
 
 ---
@@ -201,3 +201,4 @@ Este respaldo es de tipo [...] y sirve para [...] (escribe aquí tu explicación
 - Se revisará redacción, ortografía y autenticidad  
 - Plagio o uso excesivo de IA = calificación cero 
 ```
+
